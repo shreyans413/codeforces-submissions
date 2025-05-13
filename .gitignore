@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode folder
+.vscode/
+
+# Ignore Unix executable files
+bin/
+
+# Ignore input/output files
+input.txt
+output.txt
